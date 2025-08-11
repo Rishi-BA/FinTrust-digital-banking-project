@@ -38,8 +38,8 @@ Create a **customer-facing online banking platform** to:
 | 1 | [**Business Requirements Document (BRD)**](1_BRD/FinTrust_BRD.docx) | Project background, high-level requirements, and scope |
 | 2 | [**Functional Requirements Document (FRD)**](2_FRD/FinTrust_FRD.docx) | Detailed system features, workflows, and embedded wireframes |
 | 3 | [**User Stories**](3_User_Stories/) | Agile user stories with acceptance criteria for core banking features |
-| 4 | [**Wireframes**](4_Wireframes/) | Proposed UI screens:<br>• [Main Page](4_Wireframes/Wireframe%201%20(Main%20Page).png) <br>• [Registration](4_Wireframes/Wireframe%203%20(Registration).png) <br>• [Funds Transfer](4_Wireframes/Wireframe%209%20(Transfer%20Funds).png) |
-| 5 | [**Process Flows**](5_Process_Flows/) | Workflow diagrams:<br>• [As-Is Process Flow](5_Process_Flows/As-Is%20Process%20Flow.png) <br>• [To-Be Process Flow](5_Process_Flows/To-Be%20Process%20Flow.png) |
+| 4 | [**Wireframes**](4_Wireframes/) |
+| 5 | [**Process Flows**](5_Process_Flows/) |
 
 ---
 
@@ -54,9 +54,9 @@ Create a **customer-facing online banking platform** to:
 ## 📸 Wireframe Previews
 Below are a few sample wireframes from the project:
 
-![Main Page Wireframe](4_Wireframes/Wireframe%201%20(Main%20Page).png)  
-![Registration Page Wireframe](4_Wireframes/Wireframe%203%20(Registration).png)  
-![Funds Transfer Wireframe](4_Wireframes/Wireframe%209%20(Transfer%20Funds).png)
+![Main Page Wireframe](4_Wireframes/Wireframe_1%20(Main%20Page).png)  
+![Registration Page Wireframe](4_Wireframes/Wireframe_3%20(Registration).png)  
+![Funds Transfer Wireframe](4_Wireframes/Wireframe_9%20(Transfer%20Funds).png)
 
 ---
 
