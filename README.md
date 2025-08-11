@@ -38,8 +38,8 @@ Create a **customer-facing online banking platform** to:
 | 1 | [**Business Requirements Document (BRD)**](1_BRD/FinTrust_BRD.docx) | Project background, high-level requirements, and scope |
 | 2 | [**Functional Requirements Document (FRD)**](2_FRD/FinTrust_FRD.docx) | Detailed system features, workflows, and embedded wireframes |
 | 3 | [**User Stories**](3_User_Stories/) | Agile user stories with acceptance criteria for core banking features |
-| 4 | [**Wireframes**](4_Wireframes/) |
-| 5 | [**Process Flows**](5_Process_Flows/) |
+| 4 | [**Wireframes**](4_Wireframes/) | PNG images of the digital banking UI |
+| 5 | [**Process Flows**](5_Process_Flows/) | As-Is and To-Be diagrams showing workflow changes
 
 ---
 
