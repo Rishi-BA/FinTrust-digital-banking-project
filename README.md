@@ -1,4 +1,4 @@
-[![FinTrust Digital Banking Banner](4_Wireframes/FinTrust_Banner.png)](4_Wireframes/FinTrust_Banner.png)
+[![FinTrust Digital Banking Banner](4_Wireframes/FinTrust_Banner0.png)](4_Wireframes/FinTrust_Banner0.png)
 
 # FinTrust Digital Banking Project
 
