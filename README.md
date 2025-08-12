@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="4_Wireframes/FinTrust_Banner0.png" alt="FinTrust-Digital-Banking Banner">
+    <img src="4_Wireframes/FinTrust_Banner.png" alt="FinTrust-Digital-Banking Banner">
 </p>
 
 # FinTrust Digital Banking Project
